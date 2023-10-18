@@ -32,3 +32,4 @@
 
 ## Reference Material
 -   https://github.com/hardbyte/python-can/tree/develop/examples
+-   https://python-can.readthedocs.io/en/stable/api.html
