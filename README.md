@@ -28,7 +28,7 @@
     ```
 
     -   39 hex = 57 decimal
-    -   57 -40degC = 17degC which seems correct per the current house temperature.
+    -   57 - 40degC = 17degC which seems correct per the current room temperature.
 
 ## Reference Material
 -   https://github.com/hardbyte/python-can/tree/develop/examples
